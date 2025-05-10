@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm FeriTheGoat
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E9CDB&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
